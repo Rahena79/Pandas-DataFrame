@@ -22,7 +22,7 @@ Here's how you can use the Pandas DataFrame Query Resolver:
 
 ## 📊 Conclusion
 
-Pandas DataFrame offers a versatile and efficient way to handle and analyze structured data in Python. Its intuitive design and extensive functionality make it an essential tool for data scientists, analysts, and anyone working with data.
+Pandas DataFrame offers a versatile and efficient way to handle and analyse structured data in Python. Its intuitive design and extensive functionality make it an essential tool for data scientists, analysts, and anyone working with data.
 
 Overall, mastering Pandas DataFrame empowers you to unlock valuable insights from your data and streamline your data analysis workflow. 🐼
 
